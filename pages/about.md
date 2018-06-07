@@ -37,14 +37,14 @@ Feel free to reach out if you have any questions about me, my research or would 
             <div id="hide_email">
             Email: <code>cph</code><b>I</b><code>51</code><b>don't</b><code>@</code><b>want</b><code>geor</code><b>spam!
             </b><code>ge</code><b>So</b><code>town</code><b>please</b><code>.</code><b>leave
-            </b><code>ed</code><b>me</b><code>u</code><b>alone</b><b>!</b><code>du</code><br/>
+            </b><code>ed</code><b>me</b><code>u</code><b>alone</b><b>!</b><br/>
             Phone: 202-687-0298
             </div>
         </div>
 
         <div class="span2">
         <a href="../assets/pics/chaz.jpg">
-            <img src="../assets/pics/chaz.jpg"
+            <img src="../assets/pics/chaz_small.jpg"
                   title="Chaz Hinzman" alt="Chaz Hinzman"/></a>
         </div>
     </div>
