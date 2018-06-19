@@ -224,6 +224,7 @@ header .navbar .cta-btn a:hover {
 body.offcanvas-open {
   position: relative;
   overflow: hidden;
+  padding-left: 240px;
 }
 
 body.offcanvas-open .site-wrap {
