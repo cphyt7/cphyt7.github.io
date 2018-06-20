@@ -1,8 +1,8 @@
 ---
 header:
-  image: test2.jpg
+  image: dna2.jpg
 permalink: /
-excerpt: "Fritz Sedlazeck main homepage."
+excerpt: "Chaz Hinzman main homepage."
 author_profile: true
 redirect_from: 
   - /about/
