@@ -82,7 +82,7 @@ author:
   name             : "Chaz Hinzman"
   avatar           : profile.jpg
   bio              : "PhD Candidate, Department of Biochemistry and Molecular Biology at Lombardi Cancer Center, Georgetown University Medical Center"
-  location         : "3900 Reservoir Rd. NW, Pre-clinical Science, GD-4"
+  location         : >"3900 Reservoir Rd. NW, Pre-clinical Science, GD-4"
   employer         : "Georgetown Metabolomics Core"
   googlescholar    : "https://scholar.google.com/citations?user=K32Jva8AAAAJ&hl=en"
   email            : "cph51@georgetown.edu"
