@@ -11,19 +11,20 @@ redirect_from:
 
 Hi, I'm Chaz, a PhD Candidate in the Department of Biochemistry and Molecular & Cellular Biology at Georgetown University. I study in Georgetown's Metabolomics core in the Lombardi Cancer Center at Georgetown University Medical Center. 
 
+Feel free to use this site to learn more about my research. I'm always open to collaborations 
 
-# Recruiting
+<!-- # Recruiting
 If you want to join a young but aspiring lab please check out [Apply](apply/){: .btn .btn--success}.   
-I welcome applications for a Computational Biology PostDoc, who is motivated and interested in the dynamics of genomes to improve our understanding of SVs. We benefit from a thrilling environment here at the Human Genome Sequencing Center at Baylor College of Medicine.
+I welcome applications for a Computational Biology PostDoc, who is motivated and interested in the dynamics of genomes to improve our understanding of SVs. We benefit from a thrilling environment here at the Human Genome Sequencing Center at Baylor College of Medicine. -->
 
 
-# Recent News
+<!-- # Recent News -->
 
-+ Preprint:  [xAtlas: Scalable small variant calling across heterogeneous next-generation sequencing experiments](https://www.biorxiv.org/content/early/2018/04/05/295071)
+<!-- + Preprint:  [xAtlas: Scalable small variant calling across heterogeneous next-generation sequencing experiments](https://www.biorxiv.org/content/early/2018/04/05/295071) -->
 
-+ Preprint:  [Detection of GBA missense mutations and other variants using the Oxford Nanopore MinION](https://www.biorxiv.org/content/early/2018/04/03/288068)
+<!-- + Preprint:  [Detection of GBA missense mutations and other variants using the Oxford Nanopore MinION](https://www.biorxiv.org/content/early/2018/04/03/288068) -->
 
-+ Published: [Piercing the dark matter: bioinformatics of long-range sequencing and mapping](https://www.nature.com/articles/s41576-018-0003-4?WT.feed_name=subjects_biological-sciences)
+<!-- + Published: [Piercing the dark matter: bioinformatics of long-range sequencing and mapping](https://www.nature.com/articles/s41576-018-0003-4?WT.feed_name=subjects_biological-sciences) -->
 
-+ Published: [LRSim: a Linked Reads Simulator generating insights for better genome partitioning](http://www.sciencedirect.com/science/article/pii/S2001037017300855)
+<!-- + Published: [LRSim: a Linked Reads Simulator generating insights for better genome partitioning](http://www.sciencedirect.com/science/article/pii/S2001037017300855) -->
 

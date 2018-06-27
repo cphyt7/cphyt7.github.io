@@ -8,7 +8,7 @@ header:
 ---
 
 
-  You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=KNZTJ40AAAAJ&hl=en){: .btn .btn--success}
+  <!-- You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=KNZTJ40AAAAJ&hl=en){: .btn .btn--success} -->
 
 
 {% include base_path %}
