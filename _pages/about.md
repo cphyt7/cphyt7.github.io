@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chaz. I am a PhD Candidate in the Department of Biochemistry and Molecular & Cellular Biology at Georgetown University. I study in Georgetown's Metabolomics core in my mentor of Dr. Amrita Cheema in the Lombardi Cancer Center .
+Hi, I'm Chaz, a PhD Candidate in the Department of Biochemistry and Molecular & Cellular Biology at Georgetown University. I study in Georgetown's Metabolomics core in the Lombardi Cancer Center at Georgetown University Medical Center. 
 
 
 # Recruiting
