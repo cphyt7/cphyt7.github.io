@@ -11,7 +11,15 @@ redirect_from:
 
 Hi, I'm Chaz, a PhD Candidate in the Department of Biochemistry and Molecular & Cellular Biology at Georgetown University. I study in Georgetown's Metabolomics core in the Lombardi Cancer Center at Georgetown University Medical Center. 
 
-Feel free to use this site to learn more about my research. I'm always open to collaborations 
+My background is non-traditional for a biomedical researcher. I've always had a passion for science, but my journey was a little different. I received my BA in Economics from University of Missouri and BFA in Fine Arts from Stephens College. After undergrad, I worked at a boutique investment bank, specializing in the life sciences sector. Helping early stage biotech and pharmaceutical companies (mostly pre-Phase 2) navigate the capital markets, I re-discovered my passion for the underlying science of each therapy these companies were developing. I decided to go back to school, so I could one day play a larger role in developing therapies for patients. 
+
+I completed my MS in Biochemistry and Molecular Biology here at Georgetown, and subsequently applied for the PhD program. 
+
+I set up this site for people to learn more about my research, my interests and my thoughts. I'm always open to collaborating and starting new projects/ventures, so please reach out if you have something in mind!
+
+I am dedicating the rest of my life to discovering ways to help patients with disease. I hope you'll join me.
+
+-Chaz 
 
 <!-- # Recruiting
 If you want to join a young but aspiring lab please check out [Apply](apply/){: .btn .btn--success}.   

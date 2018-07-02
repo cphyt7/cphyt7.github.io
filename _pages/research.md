@@ -8,17 +8,17 @@ header:
 ---
 
 
-Metabolomics is an emerging field of research aimed at characterizing and quantitating a variety of small molecule compounds across various biological samples. My research focuses on the use of metabolic flux analysis in pancreatic cancer, attempting to better identify early metabolic signs of disease or novel therapeutic targets. I aim to work with novel models of disease, including 3D-organoids and induced pluripotent stem cells (iPSC's) in order to ensure my findings may be more translational. I also have projects that are focused on radiation induced tissue toxicity, an area of research particularly important for cancer patients who receive radiation therapy.
+Metabolomics is an emerging field of research aimed at characterizing and quantitating a variety of small molecule compounds across various biological samples. My research focuses on the use of metabolic flux analysis in pancreatic cancer, attempting to better identify early metabolic signs of disease or novel therapeutic targets. To enhance the translational nature of my research, I employ cutting-edge models of disease, including 3D-organoids and induced pluripotent stem cells (iPSC's). I also have projects focused on radiation induced tissue toxicity, an area of research particularly important for cancer patients who receive radiation therapy.
 
-Joining analytical techniques (like LC-MS, GC-MS and NMR) with cell and molecular biology techniques, and computational and statistical methods, I aim to elucidate metabolic signaling mechanisms that are responsible for phenotypic changes within a system. Rather than solely quantifying changes in particular metabolites, I aim to study their regulatory roles and validate potentially abrogated pathways orthogonally.
+Joining analytical techniques (like LC-MS, GC-MS and NMR) with cell and molecular biology techniques, and computational and statistical methods, I aim to elucidate metabolic signaling mechanisms that are responsible for phenotypic changes within a system. Rather than solely quantifying changes in particular metabolites, I aim to study their regulatory roles and orthogonally validate potentially abrogated pathways.
 
-Additionally, I work on developing novel software tools and databases (with my outstanding colleagues) to streamline metabolomic workflows and aid in more rapid specific identification of metabolites in a global untargeted manner.
+Additionally, I work on developing novel software tools and databases (using R and python, with my outstanding colleagues) to streamline metabolomic workflows and aid in more rapid specific identification of metabolites in a global, untargeted manner.
 
-Given my unique educational background and professional experience, I'm keen on working with entrepreneurial scientists to start-up next generation biotech and pharmaceutical companies, with a laser-focus on bringing new therapeutic options to patients. Check out my blog for discussions on various biotech companies and technologies.
+Given my unique educational background and professional experience, I'm keen to work with other entrepreneurial scientists to start-up next generation biotech and pharmaceutical companies, laser-focused on bringing new therapeutic options to patients. Check out my blog for discussions on various biotech companies and technologies.
 
 Reach out with any questions, comments or opportunities - I'm always happy to collaborate!
 
-## Research Interest
+## Research Interests
  * Isotope-labeling metabolic flux analysis
  * Novel models of disease (3D-organoids, iPSC's)
  * Cancer metabolism
